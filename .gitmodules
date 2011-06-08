@@ -1,0 +1,3 @@
+[submodule "1-hoppity"]
+	path = 1-hoppity
+	url = git://github.com/unindented/facebook-puzzles-hoppity.git
