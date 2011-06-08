@@ -7,3 +7,6 @@
 [submodule "3-liarliar"]
 	path = 3-liarliar
 	url = git://github.com/unindented/facebook-puzzles-liarliar.git
+[submodule "4-breathalyzer"]
+	path = 4-breathalyzer
+	url = git://github.com/unindented/facebook-puzzles-breathalyzer.git
