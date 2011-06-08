@@ -4,3 +4,6 @@
 [submodule "2-meepmeep"]
 	path = 2-meepmeep
 	url = git://github.com/unindented/facebook-puzzles-meepmeep.git
+[submodule "3-liarliar"]
+	path = 3-liarliar
+	url = git://github.com/unindented/facebook-puzzles-liarliar.git
