@@ -1,3 +1,6 @@
 [submodule "1-hoppity"]
 	path = 1-hoppity
 	url = git://github.com/unindented/facebook-puzzles-hoppity.git
+[submodule "2-meepmeep"]
+	path = 2-meepmeep
+	url = git://github.com/unindented/facebook-puzzles-meepmeep.git
